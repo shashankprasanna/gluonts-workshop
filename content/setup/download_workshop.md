@@ -17,7 +17,8 @@ cd ~/SageMaker
 git clone https://github.com/aws-samples/amazon-sagemaker-time-series-prediction-using-gluonts
 ```
 
-* Confirm that you're able to see the contents. Should see 3 parts
+* Confirm that you're able to see the contents.
+
 ```
 ls amazon-sagemaker-time-series-prediction-using-gluonts/notebooks
 ```

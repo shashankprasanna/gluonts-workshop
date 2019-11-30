@@ -12,6 +12,8 @@ part3/
 ├──  	twitter_volume_forecast.ipynb
 ```
 
-In this section you will learn how to run a time-series forecast using GluonTS. In this example we use the same dataset as before and apply two separate models, DeepAR and a simple multi-layer perceptron. At the end we shall compare the results of the evaluation of both models.
+Open `twitter_volume_forecast.ipynb` and follow the instructions.
 
-Open `twitter_volume_forecast.ipynb` to get started.
+If prompted to select a kernel, choose `conda_python3` from the dropdown menu.
+
+![conda_env](/images/labs/conda_py3.png?width=50pc)

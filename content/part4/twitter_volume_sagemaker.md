@@ -17,3 +17,7 @@ part4/
 ```
 
 Open `twitter_volume_sagemaker.ipynb` and follow the instructions.
+
+If prompted to select a kernel, choose `conda_python3` from the dropdown menu.
+
+![conda_env](/images/labs/conda_py3.png?width=50pc)
