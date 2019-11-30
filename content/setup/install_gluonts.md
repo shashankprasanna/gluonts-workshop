@@ -26,3 +26,5 @@ To install MXNet for other operating systems, GPU support  etc, visit the [MXNet
 ```
 $ pip install gluonts
 ```
+
+Now we're ready to start time-series modeling!

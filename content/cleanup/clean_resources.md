@@ -8,4 +8,4 @@ SageMaker resources are easier to clear.
 Login into the SageMaker console and click dashboard
 Make sure that you don't have any resources that are **Green** as shown below. Click on the resources that is shown as green and either stop or delete them.
 
-![test](/images/cleanup/sm_cleanup.png)
+![cleanup](/images/cleanup/sm_cleanup.png)
