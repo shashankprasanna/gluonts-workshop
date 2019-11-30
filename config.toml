@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "Time-series modeling and forecasting with GluonTS Workshop"
 theme = "learn"
 uglyurls = true
-googleAnalytics = "UA-151135045-1"
+googleAnalytics = "UA-151135045-2"
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
 
