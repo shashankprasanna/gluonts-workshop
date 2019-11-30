@@ -1,0 +1,37 @@
+baseURL = "https://gluonts-workshop.go-aws.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Time-series modeling and forecasting with GluonTS Workshop"
+theme = "learn"
+uglyurls = true
+googleAnalytics = "UA-151135045-1"
+sectionPagesMenu = "main"
+pygmentsCodeFences = true
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+themeVariant = "mine"
+showVisitedLinks = false
+author = "Shashank Prasanna"
+description = "Time-series modeling and forecasting with GluonTS Workshop"
+disableSearch = false
+disableAssetsBusting = false
+
+disableInlineCopyToClipBoard = false
+disableShortcutsTitle = false
+disableLanguageSwitchingButton = false
+disableBreadcrumb = true
+disableNextPrev = true
+ordersectionsby = "weight"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-twitter fa-lg'></i> @shshnkp"
+identifier = "tw"
+url = "https://twitter.com/shshnkp"
+weight = 1
+
+[outputs]
+home = [ "HTML", "AMP", "RSS", "JSON"]
+page = [ "HTML", "AMP"]
